@@ -9,7 +9,7 @@ To contribute to this project, knowledge of basic python scripting, Machine Lear
 -> Getting Started - How to use it?
 
 Clone this repository
-https://https://github.com/shelby2002/ML_project.git
+https://github.com/shelby2002/ML_project.git
 
 To install all the packages required to run this python program pip install -r requirements.txt
 
